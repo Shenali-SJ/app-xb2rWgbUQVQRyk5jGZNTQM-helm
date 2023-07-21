@@ -1,0 +1,4 @@
+apiVersion: v2
+name: order2-chart
+version: "1.0"
+description: A Helm chart for order2 application.
